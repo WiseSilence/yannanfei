@@ -12,5 +12,6 @@
 </script>
 
 <style>
-  @import "./assets/css/base.css";
+  @import "assets/css/base.css";  /*已在vue.config.js中进行了别名配置*/
+
 </style>
